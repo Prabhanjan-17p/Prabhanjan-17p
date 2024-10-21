@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Prabhanjan-17p/Prabhanjan-17p/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Prabhanjan-17p/Prabhanjan-17p/blob/main/snake.yml" alt="Snake animation" />
 
 ###
