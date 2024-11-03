@@ -24,9 +24,10 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+
 ###
 
-<p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- 🎓 Running Master's (MCA) ... <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
+<p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- ![icons8-master-40](https://github.com/user-attachments/assets/1cee61ad-8a81-40d1-a72d-b4c19ed415bb) Running Master's (MCA) ... <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
 
 ###
 
