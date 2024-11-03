@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- ![icons8-master-40](https://github.com/user-attachments/assets/08391036-e60c-496c-8240-52766b1ffb22) Running Master's (MCA) ... <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
+<p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- [![icons8-master-40](https://github.com/user-attachments/assets/08391036-e60c-496c-8240-52766b1ffb22)](https://github.com/Prabhanjan-17p/Prabhanjan-17p/issues/1#issue-2631397991) Running Master's (MCA) ... <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
 
 ###
 
