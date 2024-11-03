@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- 🎓 Running Master's (MCA) ...<br> <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
+<p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- 🎓 Running Master's (MCA) ... <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
 
 ###
 
