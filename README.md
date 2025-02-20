@@ -27,7 +27,14 @@
 
 ###
 
-<p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- 🎓 Running Master's (MCA) ... <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
+👋 I'm Prabhanjan Amanta, from Odisha, India.
+
+- 🎓 Pursuing a Master's (MCA)
+- 🎓 Bachelor's in Computer Applications (BCA) Graduate
+- 💻 Full Stack Developer
+- ⚡ Passionate about coding and building projects
+
+
 
 ## 🛠 Language and Tools  
 
