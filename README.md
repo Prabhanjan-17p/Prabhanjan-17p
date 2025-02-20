@@ -29,35 +29,57 @@
 
 <p align="left">👋I'm Prabhanjan Amanta... 🌆 from India,Odisha....<br><br>- 🎓 Running Master's (MCA) ... <br>- 🎓 Graduate BCA student ...<br>- 📚 I'm a Full Stack Developer ...<br>- ⚡ In my free time, I code for fun! ...</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Language and Tools  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle 19c" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img width="12" />
+  <img src="https://www.spline.design/images/favicon/favicon.ico" height="40" alt="Spline" />
 </div>
+
+---
+## 🖥️ Frontend Development  
+- **HTML5** – Structuring web pages with semantic markup.  
+- **CSS3** – Styling and responsive design for modern web applications.  
+- **JavaScript** – Adding interactivity and dynamic behavior to web pages.  
+- **React.js** – Developing component-based, fast, and scalable UI applications.  
+- **Bootstrap** – Creating responsive and mobile-friendly web interfaces.  
+
+## 🖥️ Backend Development  
+- **Java** – Backend programming for scalable and high-performance applications.  
+- **Java Swing & AWT** – Building GUI-based desktop applications.  
+
+## 🗄️ Database Management  
+- **MySQL** – Relational database management for structured data.  
+- **Oracle 19c** – Enterprise-level database solutions for robust data management.  
+- **MongoDB** – NoSQL database for flexible and scalable data storage.  
+
+## 🎨 Design & Editing Tools  
+- **Figma** – UI/UX design and prototyping for web and mobile applications.  
+- **Canva** – Graphic design and content creation for social media and branding.  
+- **Spline** – 3D design and interactive web elements development.  
+
+---
 
 ###
 
@@ -69,8 +91,4 @@
   <img src="https://streak-stats.demolab.com?user=Prabhanjan-17p&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://github.com/Prabhanjan-17p/Prabhanjan-17p/blob/main/snake.yml" alt="Snake animation" />
-
-###
