@@ -74,6 +74,9 @@
 
 ## 🖥️ Backend Development  
 - **Java** – Backend programming for scalable and high-performance applications.  
+- **Java JDBC** – Connecting Java applications to relational databases like MySQL and Oracle using JDBC API.
+- **Java Servlet** – Developing server-side applications for handling HTTP requests and responses.  
+- **JSP (JavaServer Pages)** – Creating dynamic web content and integrating with backend logic.
 - **Java Swing & AWT** – Building GUI-based desktop applications.  
 
 ## 🗄️ Database Management  
