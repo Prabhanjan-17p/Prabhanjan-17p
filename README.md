@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/Prabhanjan-17p/Prabhanjan-17p/blob/main/Profile LinkedIn Banner.png"  />
+  <img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/8913e318-b9b4-44f5-a46d-eb3e946ffc86" />
 </div>
 
 ###
