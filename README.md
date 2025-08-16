@@ -74,11 +74,15 @@
 </div>
 
 ---
+## 🖥️ Frameworks  
+- **Spring Core** – Fundamental part of the Spring Framework, providing dependency injection and core container functionality.  
+- **Spring Boot** – Simplifies Java application development with auto-configuration and production-ready features.  
+- **React.js** – JavaScript library for building fast, interactive, and reusable user interfaces.  
+
 ## 🖥️ Frontend Development  
 - **HTML5** – Structuring web pages with semantic markup.  
 - **CSS3** – Styling and responsive design for modern web applications.  
 - **JavaScript** – Adding interactivity and dynamic behavior to web pages.  
-- **React.js** – Developing component-based, fast, and scalable UI applications.  
 - **Bootstrap** – Creating responsive and mobile-friendly web interfaces.  
 
 ## 🖥️ Backend Development  
@@ -94,6 +98,10 @@
 - **MongoDB** – NoSQL database for flexible and scalable data storage.  
 
 ## 🎨 Design & Editing Tools  
+- **Maven** – Build automation and dependency management tool for Java projects.  
+- **JUnit** – Unit testing framework for Java to ensure code quality and correctness.  
+- **Mockito** – Popular Java mocking framework for creating test doubles and simulating behaviors.  
+- **Agile Scrum** – Iterative software development methodology focusing on collaboration, adaptability, and incremental delivery.  
 - **Figma** – UI/UX design and prototyping for web and mobile applications.  
 - **Canva** – Graphic design and content creation for social media and branding.  
 - **Spline** – 3D design and interactive web elements development.  
