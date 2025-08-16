@@ -66,6 +66,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_process.svg" height="40" alt="Agile Scrum" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" height="40" alt="JUnit" />
   <img width="12" />
   <img src="https://www.spline.design/images/favicon/favicon.ico" height="40" alt="Spline" />
