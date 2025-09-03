@@ -70,6 +70,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" height="40" alt="JUnit" />
   <img width="12" />
+  <img src="https://www.svgrepo.com/download/376325/gradle.svg" height="40" alt="Gradle" />
+<img width="12" />
+
+<!-- SLF4J -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/SLF4J_Logo.png" height="40" alt="SLF4J" />
+<img width="12" />
+
+<!-- Log4j -->
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Apache_Log4j_Logo.svg" height="40" alt="Log4j" />
+<img width="12" />
+
+
+<!-- Postman -->
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
+<img width="12" />
+
+<!-- ELK Stack (Elastic) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="Elasticsearch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="40" alt="Logstash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="40" alt="Kibana" />
+<img width="12" />
+
+
   <img src="https://www.spline.design/images/favicon/favicon.ico" height="40" alt="Spline" />
 </div>
 
