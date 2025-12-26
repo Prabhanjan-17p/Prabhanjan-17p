@@ -97,37 +97,70 @@
 </div>
 
 ---
-## 🖥️ Frameworks  
-- **Spring Core** – Fundamental part of the Spring Framework, providing dependency injection and core container functionality.  
-- **Spring Boot** – Simplifies Java application development with auto-configuration and production-ready features.  
-- **React.js** – JavaScript library for building fast, interactive, and reusable user interfaces.  
 
-## 🖥️ Frontend Development  
-- **HTML5** – Structuring web pages with semantic markup.  
-- **CSS3** – Styling and responsive design for modern web applications.  
-- **JavaScript** – Adding interactivity and dynamic behavior to web pages.  
-- **Bootstrap** – Creating responsive and mobile-friendly web interfaces.  
+## 🖥️ Frameworks
+- **Spring Core** – Provides core container, dependency injection (IoC), and bean lifecycle management.
+- **Spring MVC** – Implements Model-View-Controller architecture for scalable web applications.
+- **Spring Boot** – Enables rapid application development with auto-configuration and production-ready features.
+- **Spring Security** – Secures applications with authentication, authorization, JWT, and role-based access control.
+- **Hibernate** – ORM framework for efficient database interaction using JPA.
+- **Spring Data JPA** – Simplifies database access using repositories and JPA abstractions.
+- **React.js** – JavaScript library for building fast, reusable, and interactive user interfaces.
 
-## 🖥️ Backend Development  
-- **Java** – Backend programming for scalable and high-performance applications.  
-- **Java JDBC** – Connecting Java applications to relational databases like MySQL and Oracle using JDBC API.
-- **Java Servlet** – Developing server-side applications for handling HTTP requests and responses.  
-- **JSP (JavaServer Pages)** – Creating dynamic web content and integrating with backend logic.
-- **Java Swing & AWT** – Building GUI-based desktop applications.  
+---
 
-## 🗄️ Database Management  
-- **MySQL** – Relational database management for structured data.  
-- **Oracle 19c** – Enterprise-level database solutions for robust data management.  
-- **MongoDB** – NoSQL database for flexible and scalable data storage.  
+## 🖥️ Frontend Development
+- **HTML5** – Semantic structure for modern web pages.
+- **CSS3** – Styling, layouts, animations, and responsive design.
+- **JavaScript (ES6+)** – Client-side scripting and dynamic UI behavior.
+- **React.js** – Component-based frontend development.
+- **Bootstrap** – Responsive and mobile-first UI components.
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
 
-## 🎨 Design & Editing Tools  
-- **Maven** – Build automation and dependency management tool for Java projects.  
-- **JUnit** – Unit testing framework for Java to ensure code quality and correctness.  
-- **Mockito** – Popular Java mocking framework for creating test doubles and simulating behaviors.  
-- **Agile Scrum** – Iterative software development methodology focusing on collaboration, adaptability, and incremental delivery.  
-- **Figma** – UI/UX design and prototyping for web and mobile applications.  
-- **Canva** – Graphic design and content creation for social media and branding.  
-- **Spline** – 3D design and interactive web elements development.  
+---
+
+## 🖥️ Backend Development
+- **Java (Core Java)** – OOP principles, collections, exception handling, multithreading.
+- **Advanced Java** – Servlets, JSP, MVC-based web applications.
+- **Spring Boot** – REST API development and backend services.
+- **JDBC** – Database connectivity with MySQL and Oracle.
+- **Java Servlet** – Handling HTTP requests and responses.
+- **JSP (JavaServer Pages)** – Dynamic web content rendering.
+- **Java Swing & AWT** – Desktop-based GUI application development.
+
+---
+
+## 🗄️ Database Management
+- **MySQL** – Relational database for structured data storage.
+- **Oracle 19c** – Enterprise-grade RDBMS with advanced features.
+- **MongoDB** – NoSQL database for flexible and scalable data handling.
+
+---
+
+## 🎨 Design, Testing & Development Tools
+- **Maven** – Build automation and dependency management.
+- **Gradle** – Alternative build automation tool.
+- **JUnit** – Unit testing framework for Java applications.
+- **Mockito** – Mocking framework for testing business logic.
+- **Postman** – API testing and validation tool.
+- **Git & GitHub** – Version control and source code management.
+- **Jenkins** – CI/CD automation tool.
+- **Figma** – UI/UX design and prototyping.
+- **Canva** – Graphic design and content creation.
+- **Spline** – 3D design and interactive web elements.
+
+---
+
+## ⚙️ Methodologies & Other Expertise
+- **Agile Scrum** – Iterative and collaborative development approach.
+- **SDLC** – Software Development Life Cycle understanding.
+- **RESTful API Development & Integration**
+- **JWT Authentication & Role-Based Authorization**
+- **Responsive Web Design**
+- **Problem-Solving & Debugging**
+- **Software Testing Basics**
+- **Data Structures & Algorithms**
+- **Code Optimization & Performance Tuning**
 
 ---
 
