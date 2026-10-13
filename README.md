@@ -1,4 +1,4 @@
-<h1 align="center">hey everyone 👋 I'm Prabhanjan Amanta</h1>
+<h1 align="center">hey everyone 👋 I'm Pravanjana Amanta</h1>
 
 ###
 
@@ -27,14 +27,9 @@
 
 ###
 
-👋 I'm Prabhanjan Amanta, from Odisha, India.
+👋 I'm Pravanjana Amanta, from Odisha, India.
 
-- 🎓 Pursuing a Master's (MCA)
-- 🎓 Bachelor's in Computer Applications (BCA) Graduate
-- 💻 Full Stack Developer
-- ⚡ Passionate about coding and building projects
-
-
+- 💻 Engineer @ LTM
 
 ## 🛠 Language and Tools  
 
